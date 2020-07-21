@@ -12,3 +12,5 @@ Using Webhooks in WordPress is one those hard concepts to find in use commonly. 
 |----------|-----------------------------|-------------------------------|
 |1         |https://youtu.be/qDWRGqBbUCs |[Building a POST API Endpoint](https://github.com/Omukiguy/wordpress-rest-api-webhooks/blob/master/building-post-endpoint.php)|
 |2         |https://youtu.be/WSXKPVjgik8 |[Verify logged in User for Data API post](https://github.com/Omukiguy/wordpress-rest-api-webhooks/blob/master/verify-user-on-post-api-endpoint.php)|
+|2         | Unlisted |[Add API Data to custom Post Type](https://github.com/Omukiguy/wordpress-rest-api-webhooks/blob/master/verify-user-on-post-api-endpoint.php)|
+
